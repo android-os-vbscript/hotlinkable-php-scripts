@@ -1,4 +1,4 @@
 # WinXP Button Generator
-http://psc.ct8.pl/btn.php?text=Hi&width=240&height=120
+http://psc.ct8.pl/btn.php?text=Hi&width=120&height=60
 
-!(http://psc.ct8.pl/btn.php?text=Hi&width=240&height=120)
+![A button in WinXP Style](http://psc.ct8.pl/btn.php?text=Hi&width=120&height=60)
